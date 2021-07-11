@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "proyectoingenierojulioreyes": {
+      "hosting": {
+        "proyectojulioing": [
+          "proyectoingenierojulioreyes"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "proyectoingenierojulioreyes"
+  }
+}
